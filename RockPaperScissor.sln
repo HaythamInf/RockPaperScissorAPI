@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor", "RockPaperScissor\RockPaperScissor.csproj", "{63C23F08-07C6-422F-BA8A-679C3E3114B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor.Tests", "RockPaperScissor.Tests\RockPaperScissor.Tests.csproj", "{1E874A39-4F0A-4051-B851-7ACEFACACA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C23F08-07C6-422F-BA8A-679C3E3114B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C23F08-07C6-422F-BA8A-679C3E3114B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C23F08-07C6-422F-BA8A-679C3E3114B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C23F08-07C6-422F-BA8A-679C3E3114B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E874A39-4F0A-4051-B851-7ACEFACACA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E874A39-4F0A-4051-B851-7ACEFACACA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E874A39-4F0A-4051-B851-7ACEFACACA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E874A39-4F0A-4051-B851-7ACEFACACA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A297723-B42C-4D65-84CA-EE5284DCC82C}
+	EndGlobalSection
+EndGlobal
